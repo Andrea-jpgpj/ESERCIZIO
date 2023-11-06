@@ -15,7 +15,7 @@ body {
     text-align: center;
     color: white;
     font-size: 40px;
-    font-family: 'Creepster', cursive;
+    font-family: 'Inter';
     
 }
 
@@ -172,7 +172,7 @@ h6:hover{
 
         background-color:#003F0A ;
     padding: 8px;
-        color: white;
+    color: yellow;
     margin: auto;
         
         font-family: 'Spectral SC', serif;
@@ -192,46 +192,51 @@ h6:hover{
     header img{
         max-height: 80px;
         object-fit: cover;
-       margin-left: 50px;
-       margin-top: 6px;
+       margin-left: 30px;
+       margin-top: 7px;
       }
 
-    div.personaggi{
 
+    div.personaggi{
     margin: auto;
 max-width: fit-content;
+
 }
+
+
 .personaggi h6{
     margin:auto;
     margin-bottom: 50px;
     padding-bottom: 30px;
-    font-family: 'Creepster', cursive;
+    font-family: 'Inter';
     font-size: 36px;
     text-align: center;
-    color: #ffffff;
+    color: #003F0A;
 }
     .grid {
 
         display: grid;
         grid-template-columns:1fr 1fr;
-        column-gap:100px;
+        column-gap:180px;
         row-gap: 80px;
      margin:10px
+     
     }
     .grid .item{
     
         background-color: #22AB19;
-        
-        height: 330px;
+        height: 360px;
         max-width:360px ;
+        
     
     }
     
     .grid .item img {
         margin-top:30px;
-         height: 250px;
+         height: 300px;
          width: 100%;
          object-fit: cover;
+         border-radius: 20px;
      }
 
     
@@ -248,7 +253,7 @@ max-width: fit-content;
     div.immagini {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        gap: 130px;
+        gap: 160px;
         max-width: 100%;
         margin:auto;
         text-align: center;

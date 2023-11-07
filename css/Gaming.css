@@ -1,27 +1,51 @@
-body {
-    background-color: #960000;
-    margin: 0;
-
-}
-
-
-@media screen and (min-width:800px) {
-
-
-
- 
-}
-
-
-@media screen and (max-width:800px) and (min-width:400px) {
- 
-
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>  <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;300&family=Rosarivo:ital@1&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width", initial-scale="1.0">
+    <link rel="stylesheet" href="css/Gaming.css"></head>
+    <title>Document</title>
 
 
+</head>
+<body>
+     <main>
+        <header>
+            <a style="text-decoration: none;"href="index.html"><img src="immagini/87b3607f-2647-41d0-8316-563ac57054cf 1.png"></a>
+        <ul>
+      <a style="text-decoration: none;"href="regista.html"> <h5>TRAMA</h5></a>
+      <a style="text-decoration: none;"href="Scheda personaggi.html"><h5>PERSONAGGI</h5></a>
+       <a style="text-decoration: none;"href="Episodi selezionabili.html"><h5>EPISODI</h5></a>
+       <a style="text-decoration: none;"href="pagina 3.html"><h5>DINAMICHE</h5></a>
+       
+        </ul>
+</header>
+<br>
+<br>
+   <h1>DINAMICHE DI GIOCO</h1>
+   <br>
+   <br>
+   <br>
+   <div class="personaggi">
+    <div class="grid">
+        
 
-@media screen and (max-width:400px){
-
-}
-
+<img src="immagini/Formely a prince.webp" width="500px">
+            <div class="text">
+                <h2>GAMING</h2> <img src="immagini/computer-mouse-png-free-download-13.png" width="20px">
+                <h3>In questa pagina puoi trovare tutte le specifiche tecniche del lato gaming.</h3>
+                <h2>VERSIONI ALTERNATIVE DEL GIOCO</h2> <img src="immagini/computer-mouse-png-free-download-13.png" width="20px">
+                <h3>In questa pagina puoi trovare le versioni alternative di “Jazz Jackrabbit 2”.</h3>
+            </div>
+        </div>
+</a>
 

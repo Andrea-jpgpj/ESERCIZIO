@@ -66,9 +66,9 @@ h6:hover{
 
             background-color: #22AB19;
             text-align: center;
-            color: white;
-            font-family: 'Creepster', cursive;
-            font-size: 50px;
+            color: #003F0A;
+            font-family: 'Inter';
+            font-size: 45px;
             margin-top: 80px;
         }
 
@@ -77,7 +77,7 @@ h6:hover{
             margin-inline: 350px;
             text-align: left;
             color: white;
-            font-family: 'Special Elite', cursive;
+            font-family: 'Inter', cursive;
             font-size: 24px;
             text-align: left;
             align-content: center;
@@ -93,7 +93,7 @@ h6:hover{
             color: white;
         margin: auto;
             
-            font-family: 'Spectral SC', serif;
+            font-family: 'Inter';
             font-size: 14px;
         }
 
@@ -104,7 +104,7 @@ h6:hover{
             color: white;
         margin: auto;
            
-            font-family: 'Spectral SC', serif;
+            font-family: 'Inter', serif;
             font-size:  18px;
             text-align: center;
             margin: 20px;
@@ -132,7 +132,7 @@ h6:hover{
     header img{
         max-height: 80px;
         object-fit: cover;
-       margin-left: 50px;
+       margin-left: 30px;
        margin-top: 7px;
       }
 
@@ -156,7 +156,7 @@ h6:hover{
            
         }
        
-        div.personaggi {
+        div.titoli {
             max-width: 800px;
             display: grid;
             grid-template-columns: 1fr 1fr;
@@ -169,9 +169,9 @@ h6:hover{
 
             background-color: #22AB19;
             text-align: center;
-            color: white;
-            font-family: 'Creepster', cursive;
-            font-size: 50px;
+            color: #003F0A;
+            font-family: 'Inter', cursive;
+            font-size: 40px;
             margin-top: 80px;
         }
 
@@ -179,8 +179,8 @@ h6:hover{
 
             margin-inline: 350px;
             text-align: center;
-            color: white;
-            font-family: 'Special Elite', cursive;
+            color: #003F0A;
+            font-family: 'Inter',serif;
             font-size: 24px;
             text-align: left;
             align-content: center;
@@ -192,10 +192,10 @@ h6:hover{
     
             background-color:#003F0A ;
         padding: 8px;
-            color: white;
+            color: yellow;
         margin: auto;
            
-            font-family: 'Spectral SC', serif;
+            font-family: 'Inter', serif;
             font-size: 22px;
         }  
 
@@ -204,10 +204,10 @@ h6:hover{
   
             background-color: #22AB19;
         padding: 6px;
-            color: white;
+        color: #003F0A;
         margin: auto;
       
-            font-family: 'Spectral SC', serif;
+            font-family: 'Inter', serif;
             font-size:  18px;
             text-align: center;
             margin: 20px;
@@ -272,8 +272,8 @@ h6:hover{
     
                 background-color: #22AB19;
                 text-align: center;
-                color: white;
-                font-family: 'Creepster', cursive;
+                color: #003F0A;
+                font-family: 'Inter';
                 font-size: 50px;
                 margin-top: 80px;
             }
@@ -283,7 +283,7 @@ h6:hover{
                 margin-inline: 350px;
                 text-align: left;
                 color: white;
-                font-family: 'Special Elite', cursive;
+                font-family: 'Inter';
                 font-size: 24px;
                 text-align: left;
                 align-content: center;
@@ -298,7 +298,7 @@ h6:hover{
                 color: white;
                 margin: auto;
                 
-                font-family: 'Spectral SC', serif;
+                font-family: 'Inter';
                 font-size: 16px;
             }
         
@@ -312,7 +312,7 @@ h6:hover{
                 color: white;
             margin: auto;
                
-                font-family: 'Spectral SC', serif;
+                font-family: 'Inter';
                 font-size:  18px;
                 text-align: center;
                 margin: 20px;
@@ -322,3 +322,4 @@ h6:hover{
     
     
     }
+

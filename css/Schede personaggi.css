@@ -68,7 +68,7 @@ h6:hover{
             text-align: center;
             color: #003F0A;
             font-family: 'Inter';
-            font-size: 45px;
+            font-size: 50px;
             margin-top: 80px;
         }
 
@@ -171,7 +171,7 @@ h6:hover{
             text-align: center;
             color: #003F0A;
             font-family: 'Inter', cursive;
-            font-size: 40px;
+            font-size: 50px;
             margin-top: 80px;
         }
 
@@ -180,7 +180,7 @@ h6:hover{
             margin-inline: 350px;
             text-align: center;
             color: #003F0A;
-            font-family: 'Inter',serif;
+            font-family: 'Inter';
             font-size: 24px;
             text-align: left;
             align-content: center;
@@ -215,6 +215,16 @@ h6:hover{
         padding-right: 16px;
         }
 
+
+        div.English {
+            max-width: 500px;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 50px;
+            margin: auto;
+        
+        
+        }
 
 
 }
@@ -322,4 +332,7 @@ h6:hover{
     
     
     }
+
+
+
 

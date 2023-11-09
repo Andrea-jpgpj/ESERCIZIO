@@ -206,10 +206,9 @@ max-width: fit-content;
 
 .personaggi h6{
     margin:auto;
-    margin-bottom: 50px;
-    padding-bottom: 30px;
+    margin-top:30px;
     font-family: 'Inter';
-    font-size: 36px;
+    font-size: 40px;
     text-align: center;
     color: #003F0A;
 }
@@ -256,13 +255,9 @@ max-width: fit-content;
         gap: 160px;
         max-width: 100%;
         margin:auto;
-        text-align: center;
-        
-        
+        text-align: center;    
     }
-     
-        
-  
+
     div.char {
         max-width: 800px;
         display: grid;
@@ -341,7 +336,7 @@ header {
     font-family: 'Creepster', cursive;
     
 }
-    .personaggi h6{
+    h6{
         margin:auto;
         margin-bottom: 30px;
         padding-bottom: 10px;

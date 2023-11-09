@@ -136,10 +136,19 @@ h5:hover{
    height: fit-content;
    }
 
+   h1 {
+    text-align: center;
+    font-family: 'Inter';
+    margin: auto;
+    color:#003F0A ;
+    font-size: 45px;
+ margin-bottom: 18px;
+ }
+
        h5 {
    
            background-color:#003F0A ;
-       padding: 8px;
+       padding: 12px;
        color: yellow;
        margin: auto;
           
@@ -169,17 +178,18 @@ h5:hover{
        header img{
            max-height: 80px;
            object-fit: cover;
-          margin-left: 50px;
+          margin-left: 20px;
           margin-top: 6px;
          }
    img {
        max-width: fit-content;
        border-radius: 20px;
        object-fit: cover;
-       margin-top: 200px;
-       height: 380px;
+       height: 350px;
        margin: auto;
        margin-top: 30px;
+       margin-right:20px;
+
    }
    p {
        color: #FFFFFF;

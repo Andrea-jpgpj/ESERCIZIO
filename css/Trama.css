@@ -7,21 +7,15 @@ body {
 }
 
 
- h1 {
-    
-    text-align: center;
-    color: white;
-    font-size: 40px;
-    font-family: 'Inter';
-    
-}
-
-
 h5:hover{
     text-decoration: underline;
 }
 
 h6:hover{
+    text-decoration: underline;
+}
+
+h4:hover{
     text-decoration: underline;
 }
 
@@ -61,9 +55,9 @@ img {
         text-align: center;
     }
         img{
-            height: 150px;
-            width:150px;
+            height: 300px;
             max-width: fit-content;
+            margin-left: auto;
             object-fit: cover;
            
         }
@@ -80,14 +74,24 @@ img {
         h1 {
 
             
-            text-align: center;
+            text-align: left;
             color: #003F0A;
-            font-family: 'Inter', cursive;
-            font-size: 15px;
+            font-family: 'Inter';
+            font-size: 50px;
             margin-top: 80px;
+            margin-left: 410px;
         }
 
-       
+        p {max-width: 600px;
+            margin-inline: 350px;
+            text-align: center;
+            font-family: 'Inter';
+            text-align: left;
+            align-content: center;
+            margin: auto;
+            gap: 30px;
+        }
+
         h4 {
     
             
@@ -118,27 +122,44 @@ img {
 
 
 div.American {
-    max-width: 300px;
+    max-width: 650px;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 20px;
+    gap: 30px;
     margin: auto;
 
 
 }
-
-p{max-width: 300px;
-text-align: end;}
 
 div.English {
-    max-width: 500px;
+    max-width: 650px;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 50px;
+    gap: 40px;
     margin: auto;
 
 
 }
+
+
+
+
+h6 {
+  
+    background-color: #22AB19;
+padding: 6px;
+color: #003F0A;
+margin: auto;
+
+    font-family: 'Inter', serif;
+    font-size:  18px;
+    text-align: center;
+    margin: 20px;
+    padding-left: 16px;
+padding-right: 16px;
+}
+
+
 
 }
 
@@ -147,4 +168,3 @@ main {
     background-color: #22AB19;
     
 }
-

@@ -149,7 +149,7 @@ h6:hover{
         text-align: center;
     }
         img{
-            height: 400px;
+            height: 300px;
             max-width: fit-content;
             margin-left: auto;
             object-fit: cover;
@@ -176,15 +176,12 @@ h6:hover{
         }
 
         p {max-width: 600px;
-
+            color: #003F0A;
             margin-inline: 350px;
             text-align: center;
-            color: #003F0A;
             font-family: 'Inter';
-            font-size: 24px;
             text-align: left;
             align-content: center;
-            padding:  5px 30px 30px 30px;
             margin: auto;
         }
 
@@ -220,7 +217,7 @@ h6:hover{
             max-width: 500px;
             display: grid;
             grid-template-columns: 1fr 1fr;
-            gap: 50px;
+            gap: 100px;
             margin: auto;
         
         
@@ -332,7 +329,6 @@ h6:hover{
     
     
     }
-
 
 
 

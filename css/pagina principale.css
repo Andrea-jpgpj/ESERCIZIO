@@ -7,21 +7,15 @@ body {
 }
 
 
- h1 {
-    
-    text-align: center;
-    color: white;
-    font-size: 40px;
-    font-family: 'Inter';
-    
-}
-
-
 h5:hover{
     text-decoration: underline;
 }
 
 h6:hover{
+    text-decoration: underline;
+}
+
+h4:hover{
     text-decoration: underline;
 }
 
@@ -80,11 +74,12 @@ img {
         h1 {
 
             
-            text-align: center;
+            text-align: left;
             color: #003F0A;
-            font-family: 'Inter', cursive;
+            font-family: 'Inter';
             font-size: 50px;
             margin-top: 80px;
+            margin-left: 340px;
         }
 
         p {max-width: 600px;
@@ -94,6 +89,7 @@ img {
             text-align: left;
             align-content: center;
             margin: auto;
+            gap: 30px;
         }
 
         h4 {
@@ -139,12 +135,36 @@ div.English {
     max-width: 650px;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 30px;
+    gap: 40px;
     margin: auto;
 
 
 }
 
+
+div.titoli {
+    max-width: 800px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 100px;
+    margin: auto;
+
+}
+
+h6 {
+  
+    background-color: #22AB19;
+padding: 6px;
+color: #003F0A;
+margin: auto;
+
+    font-family: 'Inter', serif;
+    font-size:  18px;
+    text-align: center;
+    margin: 20px;
+    padding-left: 16px;
+padding-right: 16px;
+}
 
 
 

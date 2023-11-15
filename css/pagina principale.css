@@ -61,7 +61,7 @@ img {
         text-align: center;
     }
         img{
-            height: 400px;
+            height: 300px;
             max-width: fit-content;
             margin-left: auto;
             object-fit: cover;
@@ -88,15 +88,11 @@ img {
         }
 
         p {max-width: 600px;
-
             margin-inline: 350px;
             text-align: center;
-           
             font-family: 'Inter';
-            font-size: 24px;
             text-align: left;
             align-content: center;
-            padding:  5px 30px 30px 30px;
             margin: auto;
         }
 
@@ -130,20 +126,20 @@ img {
 
 
 div.American {
-    max-width: 500px;
+    max-width: 650px;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 50px;
+    gap: 30px;
     margin: auto;
 
 
 }
 
 div.English {
-    max-width: 500px;
+    max-width: 650px;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 50px;
+    gap: 30px;
     margin: auto;
 
 
@@ -159,3 +155,4 @@ main {
     background-color: #22AB19;
     
 }
+

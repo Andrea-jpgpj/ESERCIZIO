@@ -47,6 +47,7 @@ h6:hover{
             max-width: fit-content;
             margin-left: auto;
             object-fit: cover;
+            
            
         }
        
@@ -153,11 +154,12 @@ h6:hover{
             max-width: fit-content;
             margin-left: auto;
             object-fit: cover;
+            border-radius:20px;
            
         }
        
         div.titoli {
-            max-width: 800px;
+            max-width: 860px;
             display: grid;
             grid-template-columns: 1fr 1fr;
             column-gap: 100px;
@@ -183,6 +185,7 @@ h6:hover{
             text-align: left;
             align-content: center;
             margin: auto;
+            font-size: 20px;
         }
 
         h4 {
@@ -214,11 +217,12 @@ h6:hover{
 
 
         div.English {
-            max-width: 500px;
+            max-width: 680px;
             display: grid;
             grid-template-columns: 1fr 1fr;
             gap: 100px;
             margin: auto;
+            margin-top:60px; 
         
         
         }
@@ -329,6 +333,7 @@ h6:hover{
     
     
     }
+
 
 
 

@@ -86,8 +86,8 @@ h5:hover{
    p {
     color:#003F0A ;
        font-family: 'Inter';
-       max-width: 600px;
-       font-size: 24px;
+       max-width: 650px;
+       font-size: 22px;
        text-align: left;
        align-content: center;
        
@@ -102,6 +102,7 @@ h5:hover{
     margin: auto;
     color:#003F0A ;
     font-size: 34px;
+    background-color: #22AB19;
 
   
 }
@@ -184,5 +185,6 @@ h5:hover{
    }
 
 }
+
 
 

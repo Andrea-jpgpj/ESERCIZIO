@@ -76,13 +76,13 @@ img {
             font-family: 'Inter';
             font-size: 50px;
             margin-top: 80px;
-            margin-left: 410px;
+            text-align: center;
         }
 
         p {max-width: 600px;
             margin-inline: 350px;
             text-align: center;
-            font-family: 'Inter' serif;
+            font-family: 'Inter';
             text-align: left;
             align-content: center;
             margin: auto;
@@ -166,4 +166,6 @@ main {
     background-color: #22AB19;
     
 }
+
+
 

@@ -3,10 +3,11 @@ body {
    
     background-color: #22AB19;
     margin: 0;
+    
 }
 
 
-h5:hover{
+h4:hover{
     text-decoration: underline;
 }
 
@@ -32,10 +33,10 @@ img {
 
 
     header img{
-        max-height: 80px;
+        max-height: 89px;
         object-fit: cover;
-       margin-left: 30px;
-       margin-top: 7px;
+       margin-left: 33px;
+       margin-top: 8px;
       }
 
     ul {
@@ -90,25 +91,26 @@ img {
             gap: 90px;
         }
 
-        h5 {
+        h4 {
    
             background-color:#003F0A ;
-           padding: 8px;
+           padding: 12px;
            color: yellow;
            margin: auto;
-        
-               font-family: 'inter';
-               font-size: 22px;
+      margin-top: -1px;
+      margin-right: -1px;
+           font-family: 'Inter', serif;
+               font-size: 24px;
               
            }  
 
-        h6 {
+           h6 {
   
             background-color: #22AB19;
         padding: 6px;
-       
+        color: #003F0A;
         margin: auto;
-      
+        
             font-family: 'Inter', serif;
             font-size:  18px;
             text-align: center;
@@ -116,7 +118,6 @@ img {
             padding-left: 16px;
         padding-right: 16px;
         }
-
 
 
 div.American {
@@ -137,24 +138,6 @@ div.English {
     margin: auto;
 
 
-}
-
-
-
-
-h6 {
-  
-    background-color: #22AB19;
-padding: 6px;
-color: #003F0A;
-margin: auto;
-
-    font-family: 'Inter', serif;
-    font-size:  18px;
-    text-align: center;
-    margin: 20px;
-    padding-left: 16px;
-padding-right: 16px;
 }
 
 

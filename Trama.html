@@ -1,85 +1,154 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;300&family=Rosarivo:ital@1&display=swap" rel="stylesheet">
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width", initial-scale="1.0">
-    <link rel="stylesheet" href="css/Trama.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
-</head>
-<body>
-    <main>
-
-
-        <header>
-            <a style="text-decoration: none;"href="index.html"><img src="immagini/87b3607f-2647-41d0-8316-563ac57054cf 1.png"></a>
-        <ul>
-           <a style="text-decoration: none;"href="Trama.html"> <h4>TRAMA</h4></a>
-            <a style="text-decoration: none;"href="Scheda personaggi.html"><h4>PERSONAGGI</h4></a>
-            <a style="text-decoration: none;"href="Episodi selezionabili.html"><h4>EPISODI</h4></a>
-            <a style="text-decoration: none;"href="Dinamiche del gioco.html"><h4>DINAMICHE</h4></a>
-        </ul>
-        </header>
-
-    
-</head>
-<body>
-    <main>
-        
+body {
    
+    background-color: #22AB19;
+    margin: 0;
+    
+}
 
-            <h1>TRAMA</h1>
+
+h4:hover{
+    text-decoration: underline;
+}
+
+h6:hover{
+    text-decoration: underline;
+}
+
+
+
+img {
+    max-width: 100%;
+}
+
+@media screen and (min-width:800px) {
+    header {
+        background-color:#003F0A ;
+        display: flex;
+        justify-content: space-between;
+       height: 90px;
+       margin-bottom: 30px;
+       height: fit-content;
+    }
+
+
+    header img{
+        max-height: 89px;
+        object-fit: cover;
+       margin-left: 33px;
+       margin-top: 8px;
+      }
+
+    ul {
+        list-style: none;
+        display: flex;
+        gap: 20px;
+        margin-right: 20px;
+        align-content: center;
+    }
+
+
+    div.image{
+        text-align: center;
+    }
+        img{
+            height: 280px;
+            max-width: fit-content;
+            margin-left: auto;
+            object-fit: cover;
+            border-radius: 20px;
+           
+        }
+       
+        div.titoli {
+            max-width: 800px;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            column-gap: 100px;
+            margin: auto;
+    
+        }
+
+        h1 {
+
             
+            text-align: left;
+            color: #003F0A;
+            font-family: 'Inter';
+            font-size: 50px;
+            margin-top: 80px;
+            text-align: center;
+        }
 
+        p {max-width: 600px;
+            margin-inline: 350px;
+            text-align: center;
+            font-family: 'Inter';
+            text-align: left;
+            align-content: center;
+            margin: auto;
+            font-size: 20px;
+            gap: 90px;
+        }
 
+        h4 {
+   
+            background-color:#003F0A ;
+           padding: 12px;
+           color: yellow;
+           margin: auto;
+      margin-top: -1px;
+      margin-right: -1px;
+           font-family: 'Inter', serif;
+               font-size: 24px;
+              
+           }  
 
-
-<br><br>
-            <div class="American">
-    
-    <p>Dopo le disavventure affrontate, la lepre Jazz Jackrabbit continua a dare la caccia al suo nemico, la tartaruga Devan Shell per recuperare l’anello con il quale ha deciso di sposarsi con la coniglietta Eva e il fratello di Jazz, Spaz, viene introdotto come personaggio giocabile.</p>
-    
-            <img src="Immagini/Home_Cooked_Levels.webp">
-        </div>
-        <br>
-        <br>
-        <br>
-
-<br><br>
-        <p>Dopo le disavventure affrontate, la lepre Jazz Jackrabbit continua a dare la caccia al suo nemico, la tartaruga Devan Shell per recuperare l’anello con il quale ha deciso di sposarsi con la coniglietta Eva e il fratello di Jazz, Spaz, viene introdotto come personaggio giocabile.</p>
-
-        <br>
-        <br>
-        <br>
-
-<br><br>
-<div class="English">
-
-    <img src="Immagini/cWqS4DAfOUH1jmgV13yTNbMZk64vA2.png">
-
-    
-
-        <p>Qui a fianco troviamo un frame della prima cutscene in cui vengono mostrate le doti di Jazz Jackrabbit nel destreggiarsi con i suoi nemici. Infatti Jazz viene presentato in pieno relax: poco dopo sfiora un nemico e, prendendo una corda dall’alto, fugge per aria portando direttamente al logo del videogioco. </p>
-
-        </div>
-        <br>
-        <br>
-        <br>
-        <br>
+           h6 {
+  
+            background-color: #22AB19;
+        padding: 6px;
+        color: #003F0A;
+        margin: auto;
         
-        <a style="text-decoration: none;"href="https://www.youtube.com/watch?v=1J6TQ_4dSzo">
-            <h6>TRAILER UFFICIALE 
-                DI “JAZZ JACKRABBIT 2”</h6>
+            font-family: 'Inter', serif;
+            font-size:  18px;
+            text-align: center;
+            margin: 20px;
+            padding-left: 16px;
+        padding-right: 16px;
+        }
 
 
-        
-    </main>
-</body>
-</html>
+div.American {
+    max-width: 650px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+    margin: auto;
+
+
+}
+
+div.English {
+    max-width: 800px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+margin-left:330px;
+
+
+}
+
+
+
+}
+
+main {
+  margin: auto;  
+    background-color: #22AB19;
+    
+}
+
+
+

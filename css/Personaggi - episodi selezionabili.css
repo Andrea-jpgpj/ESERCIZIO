@@ -107,24 +107,32 @@ max-width: fit-content;
 }
     
     @media screen and (max-width:800px) and (min-width:400px){
-header {
-    background-color:#003F0A ;
-        display: flex;
-        justify-content: space-between;
-       height: 90px;
-    height: fit-content;
-    margin-bottom: 30px;
-    }
+
+        header {
+            background-color:#003F0A ;
+            display: flex;
+            justify-content: space-between;
+           height: 20px;
+           margin-bottom: 20px;
+           height: fit-content;
+        }
+
+        header img{
+            max-height: 50px;
+            object-fit: cover;
+           margin-left: 15px;
+           margin-top: 10px;
+          }
 
     h5 {
     
         background-color:#003F0A ;
         padding: 6px;
-        color: white;
+        color: yellow;
         margin: auto;
         
-        font-family: 'Spectral SC', serif;
-        font-size: 16px;
+        font-family: 'Inter', serif;
+        font-size: 12px;
     }
   
     ul {
@@ -167,19 +175,20 @@ header {
  h1 {
     
     text-align: center;
-    color: white;
-    font-size: 30px;
-    font-family: 'Creepster', cursive;
+    color:   #003F0A;
+    font-size: 18px;
+    font-family: 'Inter';
+
     
 }
     h6{
         margin:auto;
         margin-bottom: 30px;
         padding-bottom: 10px;
-        font-family: 'Creepster', cursive;
-        font-size: 16px;
+        font-family: 'Inter';
+        font-size: 17px;
         text-align: center;
-        color: #ffffff;
+        color: #003F0A;
     }
         .grid {
     
@@ -200,8 +209,9 @@ header {
         
         .grid .item img {
             margin-top:20px;
-             height: 120px;
+             height: 170px;
              width: 100%;
+             border-radius: 20px;
              object-fit: cover;
          }
     

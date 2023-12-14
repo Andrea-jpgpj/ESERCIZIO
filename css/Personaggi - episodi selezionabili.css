@@ -30,23 +30,25 @@ h6:hover{
     }
 
     header img{
-        max-height: 80px;
+        max-height: 50px;
         object-fit: cover;
        margin-left: 30px;
        margin-top: 7px;
       }
 
       h4 {
-    
+   
         background-color:#003F0A ;
-    padding: 8px;
-        color: yellow;
-    margin: auto;
-       
-        font-family: 'Inter', serif;
-        font-size: 22px;
-        margin-top: 8px;
-    }  
+       padding: 12px;
+       font-size:40px;
+       color: yellow;
+       margin: auto;
+  margin-top: -1px;
+  margin-right: -1px;
+       font-family: 'Inter', serif;
+           font-size: 24px;
+          
+       }  
 
     h5 {
 

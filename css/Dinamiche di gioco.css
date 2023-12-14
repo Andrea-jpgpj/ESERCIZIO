@@ -136,17 +136,17 @@ h5:hover{
          margin-left: 340px;
      }
  
-        h5 {
+        
+     h5 {
     
-         background-color:#003F0A ;
-        padding: 8px;
+        background-color:#003F0A ;
+    padding: 8px;
         color: yellow;
-        margin: auto;
- 
-            font-family: 'inter';
-            font-size: 22px;
-           
-        }  
+    margin: auto;
+       
+        font-family: 'Inter', serif;
+        font-size: 22px;
+    }  
    
         header {
             background-color:#003F0A ;
@@ -205,6 +205,8 @@ h5:hover{
      color:#003F0A ;
      font-size: 34px;
      background-color: #22AB19;
+
+     
  
  }
 } 

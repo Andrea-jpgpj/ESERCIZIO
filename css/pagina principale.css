@@ -34,7 +34,7 @@ img {
        height: fit-content;
     }
 
-
+    
     header img{
         max-height: 80px;
         object-fit: cover;
@@ -94,15 +94,18 @@ img {
         }
 
         h4 {
-    
-            
-        padding: 8px;
-            color: yellow;
-        margin: auto;
-           
-            font-family: 'Inter', serif;
-            font-size: 22px;
-        }  
+   
+            background-color:#003F0A ;
+           padding: 12px;
+           font-size:40px;
+           color: yellow;
+           margin: auto;
+      margin-top: -1px;
+      margin-right: -1px;
+           font-family: 'Inter';
+               font-size: 24px;
+              
+           }  
 
 
         h6 {

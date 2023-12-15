@@ -239,6 +239,7 @@ img {
 
 @media screen and (min-width:800px) {
 
+ 
     header {
         background-color:#003F0A ;
         display: flex;
@@ -255,6 +256,7 @@ img {
        margin-left: 30px;
        margin-top: 7px;
       }
+
       ul {
         list-style: none;
         display: flex;
@@ -308,17 +310,16 @@ img {
         }
 
         h4 {
-   
+    
             background-color:#003F0A ;
-           padding: 12px;
-           color: yellow;
-           margin: auto;
-      margin-top: -1px;
-      margin-right: -1px;
-           font-family: 'Inter', serif;
-               font-size: 24px;
-              
-           }  
+        padding: 8px;
+            color: yellow;
+        margin: auto;
+           
+            font-family: 'Inter', serif;
+            font-size: 22px;
+            margin-top: 10px;
+        }  
 
            h6 {
   

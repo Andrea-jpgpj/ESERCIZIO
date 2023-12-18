@@ -38,15 +38,18 @@ h5:hover{
  margin-bottom: 18px;
  }
 
- h5 {
+       h5 {
    
-    background-color:#003F0A ;
-   padding: 8px;
-   color: yellow;
-   margin: auto;
-
-       font-family: 'inter';
-       font-size: 22px;
+   
+        background-color:#003F0A ;
+       padding: 12px;
+       font-size:40px;
+       color: yellow;
+       margin: auto;
+  margin-top: -1px;
+  margin-right: -1px;
+       font-family: 'Inter', serif;
+           font-size: 24px;
       
    }  
 

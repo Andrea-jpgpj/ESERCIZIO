@@ -51,14 +51,17 @@ h5:hover{
        height: fit-content;
      margin-bottom: 30px;
    }
- h4 {
-   background-color: red;
-       padding: 6px;
-       color: #750004;
-       margin: auto;
-       border-radius: 16px;
-       font-family: 'Spectral SC', serif;
-           font-size: 14px;
+  h4 {
+    background-color:#003F0A ;
+    padding: 12px;
+    font-size:40px;
+    color: yellow;
+    margin: auto;
+margin-top: -1px;
+margin-right: -1px;
+    font-family: 'Inter', serif;
+        font-size: 24px;
+          
        }
    h5 {
  

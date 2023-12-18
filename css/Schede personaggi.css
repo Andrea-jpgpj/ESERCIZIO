@@ -191,12 +191,14 @@ h6:hover{
         h4 {
     
             background-color:#003F0A ;
-        padding: 8px;
+            padding: 12px;
+            font-size:40px;
             color: yellow;
-        margin: auto;
-           
+            margin: auto;
+       margin-top: -1px;
+       margin-right: -1px;
             font-family: 'Inter', serif;
-            font-size: 22px;
+                font-size: 24px;
         }  
 
 
@@ -351,8 +353,6 @@ h6:hover{
     
     
     }
-
-
 
 
 

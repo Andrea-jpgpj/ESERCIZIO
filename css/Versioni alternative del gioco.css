@@ -157,13 +157,16 @@ div.Mongolian {
 
 h4 {
     
-            
-    padding: 8px;
-        color: yellow;
+
+    background-color:#003F0A ;
+    padding: 12px;
+    font-size:40px;
+    color: yellow;
     margin: auto;
-       
-        font-family: 'Inter', serif;
-        font-size: 22px;
+margin-top: -1px;
+margin-right: -1px;
+    font-family: 'Inter', serif;
+        font-size: 24px;
     }  
 
 
@@ -330,3 +333,4 @@ h4 {
     
     }
     
+

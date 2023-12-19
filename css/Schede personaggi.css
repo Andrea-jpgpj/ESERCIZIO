@@ -178,7 +178,7 @@ h6:hover{
         }
 
         p {max-width: 600px;
-            color: #003F0A;
+            color: white;
             margin-inline: 350px;
             text-align: center;
             font-family: 'Inter';
@@ -235,20 +235,19 @@ h6:hover{
     @media screen and (max-width:800px) and (min-width:400px) {
         header {
             background-color:#003F0A ;
-    display: flex;
-    justify-content: space-between;
-   height: 20px;
-   margin-bottom: 20px;
-   height: fit-content;
+            display: flex;
+            justify-content: space-between;
+           height: 20px;
+           margin-bottom: 20px;
+           height: fit-content;
         }
     
         header img{
-            max-height: 50px;
-    object-fit: cover;
-   margin-left: 15px;
-   margin-top: 10px;
+            max-height: 43px;
+            object-fit: cover;
+           margin-left: 15px;
+           margin-top: 10px;
           }
-    
     
         ul {
             list-style: none;
@@ -267,6 +266,7 @@ h6:hover{
                 max-width: fit-content;
                 margin-left: 135px;
                 object-fit: cover;
+                border-radius: 10px;
                
             }
            
@@ -296,7 +296,7 @@ h6:hover{
     
                 margin-inline: 350px;
                 text-align: left;
-                color: black;
+                color: white;
                 font-family: 'Inter';
                 font-size: 13px;
                 align-content: center;
@@ -307,12 +307,12 @@ h6:hover{
 
             h4 {
     
-                padding: 8px;
+                padding: 4px;
                 color: yellow;
             margin: auto;
-               
+
                 font-family: 'Inter', serif;
-                font-size: 12px;
+                font-size: 11px;
             }
         
 

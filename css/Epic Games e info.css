@@ -121,15 +121,35 @@ h5:hover{
 
 @media screen and (max-width:800px) and (min-width:400px){
    
-    h4 {
+    header {
+        background-color:#003F0A ;
+        display: flex;
+        justify-content: space-between;
+       height: 20px;
+       margin-bottom: 20px;
+       height: fit-content;
+    }
 
+    header img{
+        max-height: 43px;
+        object-fit: cover;
+       margin-left: 15px;
+       margin-top: 10px;
+      }
+
+      h1 {
+
+        background-color: #22AB19;
+        text-align: center;
+        color: #003F0A;
+        font-family: 'Inter', cursive;
+        font-size: 20px;
+        margin-top: 10px;
         
-        padding: 4px;
-            color: yellow;
-        margin: auto;
-            font-family: 'Inter', serif;
-            font-size: 11px;
-        }  
+    }
+
+
+
 
     h5 {
 
@@ -156,41 +176,37 @@ margin-right: -1px;
     align-content: center;
     }
   
-    header {
-        background-color:#003F0A ;
-        display: flex;
-        justify-content: space-between;
-       height: 20px;
-       margin-bottom: 20px;
-       height: fit-content;
-    }
+    
+    h4 {
 
-    header img{
-        max-height: 43px;
+        
+        padding: 4px;
+            color: yellow;
+        margin: auto;
+            font-family: 'Inter', serif;
+            font-size: 11px;
+        }  
+
+     
+
+
+     img{
+        height: 150px;
+        max-width: fit-content;
+        margin-left: auto;
         object-fit: cover;
-       margin-left: 15px;
-       margin-top: 10px;
-      }
-
-img {
-    max-width: fit-content;
-    border-radius: 20px;
-    object-fit: cover;
-    height: 200px;
-    margin: auto;
-    margin-top: 30px;
-    margin-right:20px;
-
-}
-p {max-width: 400px;
-    color: white;
-    margin-inline: 350px;
-    font-family: 'Inter';
-    margin-right: 30px;
-    align-content: center;
-    margin: auto;
-    font-size: 14px;
-}
+        border-radius:10px;
+       
+    }
+    p {max-width: 360px;
+        color: #FFFFFF;
+        margin-inline: 350px;
+        font-family: 'Inter';
+        margin-right: 30px;
+        align-content: center;
+        margin: auto;
+        font-size: 11px;
+    }
 
 h6{
  background-color: #22AB19;
@@ -200,17 +216,6 @@ margin: auto;
     border-radius: 16px;
     font-family: 'Inter';
     font-size: 24px;
-}
-
-
-h1 {
-
-    background-color: #22AB19;
-    text-align: center;
-    color: #003F0A;
-    font-family: 'Inter', cursive;
-    font-size: 30px;
-    margin-left: 10px;
 }
 
 

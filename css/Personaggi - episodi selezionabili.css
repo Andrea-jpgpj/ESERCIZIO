@@ -139,7 +139,7 @@ max-width: fit-content;
         }
 
         header img{
-            max-height: 50px;
+            max-height: 43px;
             object-fit: cover;
            margin-left: 15px;
            margin-top: 10px;
@@ -164,12 +164,6 @@ max-width: fit-content;
      align-content: center;
     }
 
-    header img{
-        max-height: 50px;
-        object-fit: cover;
-       margin-left: 15px;
-       margin-top: 10px;
-      }
         div.personaggi{
     
         margin: auto;
@@ -196,9 +190,8 @@ max-width: fit-content;
         padding: 8px;
             color: yellow;
         margin: auto;
-           
             font-family: 'Inter', serif;
-            font-size: 14px;
+            font-size: 11px;
         }  
 
 
@@ -283,4 +276,5 @@ main {
     background-color: #22AB19;
     
 }
+
 

@@ -200,8 +200,9 @@ header {
 }
 
 
+
 header img{
-    max-height: 50px;
+    max-height: 43px;
     object-fit: cover;
    margin-left: 15px;
    margin-top: 10px;
@@ -261,12 +262,12 @@ div.image{
     h4 {
 
         
-    padding: 8px;
+    padding: 4px;
         color: yellow;
     margin: auto;
        
         font-family: 'Inter', serif;
-        font-size: 14px;
+        font-size: 11px;
     }  
 
 
@@ -291,17 +292,17 @@ div.American {
 max-width: 650px;
 display: grid;
 grid-template-columns: 1fr 1fr;
-gap: 100px;
+gap: 50px;
 margin-top:40px;
 margin-left: 60px;
 
 }
 
 div.English {
-max-width: 970px;
+max-width: 1070px;
 display: grid;
 grid-template-columns: 1fr 1fr;
-gap: 130px;
+gap: 20px;
 margin: auto;
 margin-top:40px;
 

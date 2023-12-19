@@ -159,9 +159,9 @@ max-width: fit-content;
     ul {
         list-style: none;
         display: flex;
-        gap: 12px;
-        margin-right: 10px;
-     align-content: center;
+        gap: 20px;
+        margin-right: 20px;
+        align-content: center;
     }
 
         div.personaggi{
@@ -183,17 +183,15 @@ max-width: fit-content;
     
     
     }
-
     h4 {
 
         
-        padding: 8px;
+        padding: 4px;
             color: yellow;
         margin: auto;
             font-family: 'Inter', serif;
             font-size: 11px;
         }  
-
 
     
  h1 {
@@ -276,5 +274,6 @@ main {
     background-color: #22AB19;
     
 }
+
 
 

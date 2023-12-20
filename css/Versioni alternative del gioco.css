@@ -90,6 +90,17 @@ img {
             margin-left: 50px;
         }
 
+        h2 {
+
+            background-color: #22AB19;
+            text-align: center;
+            color: #003F0A;
+            font-family: 'Inter', cursive;
+            font-size: 45px;
+            margin-top: 80px;
+            margin-left: 50px;
+        }
+
         h3 {
 
             background-color: #22AB19;
@@ -209,6 +220,18 @@ img {
             color: #003F0A;
             font-family: 'Inter', cursive;
             font-size: 20px;
+            
+            margin-left: 50px;
+        }
+
+        
+        h2 {
+
+            background-color: #22AB19;
+            text-align: center;
+            color: #003F0A;
+            font-family: 'Inter', cursive;
+            font-size: 20px;
             margin-bottom:-25px;
             margin-left: 50px;
         }
@@ -276,3 +299,4 @@ img {
 
 
 }
+

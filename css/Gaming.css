@@ -225,21 +225,16 @@ h5:hover{
        
     }
   
-    p {max-width: 650px;
+    p {max-width: 250px;
         color: #003F0A;
         
         font-family: 'Inter';
         margin-right: 30px;
         align-content: center;
         margin: auto;
-        font-size: 10px;
+        font-size: 12px;
         text-align: left;
-      
-        gap:20px;
-        margin-bottom:20px;
-       
-        padding:  5px 30px 5px 30px;
-        
+        margin-top:20px;
     }
   
 
